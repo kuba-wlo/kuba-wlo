@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**kuba-wlo/kuba-wlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Kuba**  
 
-Here are some ideas to get you started:
+🎓 Student of **IT Automation Systems**  
+💻 Worked with **C++, Python**  
+🧠 Interested in software development and problem solving.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Tools I use
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,git,vscode,linux" />
+</p>
